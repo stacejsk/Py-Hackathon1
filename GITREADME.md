@@ -1,0 +1,1 @@
+Py-Hackathon1 was created after forking from PLPAfrica/Feb_2024-Python-Hackathon1. After forking, I was able to download the content to my local machine using git clone. I made my changes then pushed the changes to my repo afterwards I was able to make a pull request.
